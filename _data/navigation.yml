@@ -1,7 +1,7 @@
 # main links
 main:
-  - { title: "About",  url: "/about.md" ,}
-  - { title: "Experience", url: "/experience.md"}
-  - { title: "Projects", url: "/projects.md"}
-  - { title: "Certifications", url: "/certifications.md"}
+  - { title: "About",  url: "/about" ,}
+  - { title: "Experience", url: "/experience"}
+  - { title: "Projects", url: "/projects"}
+  - { title: "Certifications", url: "/certifications"}
 
