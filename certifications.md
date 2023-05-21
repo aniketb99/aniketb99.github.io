@@ -5,7 +5,7 @@ title: Certifications
 
 ## Microsoft Certified: Azure AI Fundamentals
 
-![Microsoft Certified: Azure AI Fundamentals](logos\certifications\azure-ai-fundamentals-600x600.png)
+![Microsoft Certified: Azure AI Fundamentals](assets/logos/certifications/azure-ai-fundamentals-600x600.png)
 - Issuing Organization: Microsoft
 - Date: September 2021
 
@@ -13,7 +13,7 @@ title: Certifications
 
 ## PCAP – Certified Associate in Python Programming
 
-![PCAP – Certified Associate in Python Programming](/logos/certifications/pcap-31-xx.png)
+![PCAP – Certified Associate in Python Programming](assets/logos/certifications/pcap-31-xx.png)
 
 - Issuing Organization: OpenEDG Python Institute
 - Date: August 2021
@@ -22,7 +22,7 @@ title: Certifications
 
 ## Microsoft Certified: Azure Fundamentals
 
-![Microsoft Certified: Azure Fundamentals](/logos/certifications/azure-funda.png)
+![Microsoft Certified: Azure Fundamentals](assets/logos/certifications/azure-funda.png)
 
 - Issuing Organization: Microsoft
 - Date: June 2021
@@ -38,19 +38,19 @@ title: Certifications
 
 ---
 
-## Databases and SQL for Data Science
+<!-- ## Databases and SQL for Data Science
 
-![Databases and SQL for Data Science](/logos/certifications/databases-sql-data-science.png)
+![Databases and SQL for Data Science](assets/logos/certifications/databases-sql-data-science.png)
 
 - Issuing Organization: Coursera
 - Date: May 2020
-- Credential ID: TM4FD929LADJ
+- Credential ID: TM4FD929LADJ -->
 
 ---
 
 ## Tableau Analyst
 
-![Tableau Analyst](/logos/certifications/tableau-analyst.png)
+![Tableau Analyst](assets/logos/certifications/tableau analyst.png)
 
 - Issuing Organization: Tableau
 - Date: May 2020
@@ -59,7 +59,7 @@ title: Certifications
 
 ## Microsoft Certified: Azure Data Scientist Associate
 
-![Microsoft Certified: Azure Data Scientist Associate](/logos/certifications/azure-data-scientist-associate-600x600.png)
+![Microsoft Certified: Azure Data Scientist Associate](assets/logos/certifications/azure-data-scientist-associate-600x600.png)
 
 - Issuing Organization: Microsoft
-- Date: October 2021 (Expired October 2022)
+- Date: October 2021 
