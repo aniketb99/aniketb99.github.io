@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 toc: true
-title : 🚀 Welcome to Aniket's Data Odyssey 🌌
+title : 🚀 Welcome to Aniket's Data Odyssey 
 ---
 
 Hello there, digital explorer! I am Aniket—a seasoned Data Scientist passionate about diving deep into the ocean of numbers, patterns, and predictions. My journey is a story of traversing through the vastness of data, distilling wisdom, and illuminating the unknown with actionable insights.
@@ -21,6 +21,28 @@ Hello there, digital explorer! I am Aniket—a seasoned Data Scientist passionat
 - **Statistical Modeling**: ARMA, ARIMA, GARCH, Survival Analysis.
 - **Data Engineering**: Large-scale data handling, scripting, instance configuration.
 - **Deployment**: Crafting and orchestrating production-ready pipelines.
+
+## 📚 Publications 
+
+### 📖 Chapter 23: Two Efficient Approaches to Building a Recommendation Engine for Movies Based on Collaborative Filtering on User Ratings
+**Authors**: Aniket Biswal, Thirumurugan Krishnasamy
+
+**Publication Date**: 06 July 2023
+
+[🔗 Read the paper](https://doi.org/10.1002/9781394216796.ch23)
+
+---
+
+### 📖 Missing Data Imputation of an Off‐Grid Solar Power Model for a Small‐Scale System
+**Authors**: Aadyasha Patel, Aniket Biswal, O.V. Swathika
+
+**Publication Date**: 06 June 2023
+
+**Pages**: 285-298
+
+**ISBN**: 9781119872078
+
+[🔗 Read the paper](https://doi.org/10.1002/9781119872108.ch15)
 
 ## 🚀 The Journey So Far...
 
