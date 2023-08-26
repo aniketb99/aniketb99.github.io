@@ -2,11 +2,8 @@
 layout: single
 author_profile: true
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+title : 🚀 Welcome to Aniket's Data Odyssey 🌌
 ---
-
-# 🚀 Welcome to Aniket's Data Odyssey 🌌
 
 Hello there, digital explorer! I am Aniket—a seasoned Data Scientist passionate about diving deep into the ocean of numbers, patterns, and predictions. My journey is a story of traversing through the vastness of data, distilling wisdom, and illuminating the unknown with actionable insights.
 

@@ -105,14 +105,11 @@ analytics:
 # Site Author
 author:
   name             : "Aniket Biswal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_pic_circular.png"
   bio              : "I am an **amazing** person."
   location         : "Ontario, Canada"
-  email            : 
+  email            : "aniketbiswal.ca@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "aniketbiswal.ca@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

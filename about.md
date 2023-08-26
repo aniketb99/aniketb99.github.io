@@ -1,78 +1,80 @@
 ---
-layout: default
-title: About
+layout: single
+toc: true
+classes:
+  - dark-theme
+author_profile: true
+title: "👋 Hello, I'm Aniket"
 ---
 
-# Hello, I'm [Your Name]
+Welcome to my corner of the digital world! I'm excited to share a glimpse of who I am and what sets my soul on fire. 🚀
 
-Welcome to my corner of the digital world! I'm excited to share a glimpse of who I am and what I'm passionate about.
+## 🌐 About Me
 
-## About Me
+I'm a tech enthusiast 🤓 with a thirst for pushing the boundaries of innovation. Each step in my journey has added vibrant colors 🌈 to my canvas of skills and perspectives.
 
-I'm a tech enthusiast with a keen interest in pushing the boundaries of innovation. My journey has been an exciting blend of diverse experiences that have shaped my skills and perspectives.
+## 🔧 Skills
 
-## Skills
+In the realm of coding and problem-solving, I'm in my element! Here's what I've mastered:
 
-I thrive in a world of coding and problem-solving. Here's a snapshot of what I bring to the table:
+### 💻 Programming
 
-### Programming
+My code playground is vast, spanning several languages and libraries:
+- **Python**: Pytorch, TensorFlow 🧠, ggplot 📊, Keras, NLTK 📚, NumPy, Plotly 📉
+- **R**: ❤️
+- **Java**: ☕
+- **HTML**: 🌐
+- **CSS**: 🎨
+- **JavaScript**: ⚡
 
-My code canvas spans languages and libraries, including:
-- Python (TensorFlow, ggplot, Keras, NLTK, NumPy, Plotly)
-- R
-- Java
-- HTML
-- CSS
-- JavaScript
+### 🗃️ Databases
 
-### Databases
+Harnessing the power of various database tech:
+- **SQL**: MySQL, Oracle 🏛️
+- **Neo4j**: Graph Database 🕸️
 
-I have command over various database technologies:
-- SQL (MySQL, Oracle)
-- Neo4j (Graph Database)
+### 🛠️ Tools/Platform
 
-### Tools/Platform
+Armed and ready with the best in the biz:
+- **Anaconda**: 🐍
+- **Git Version Control**: 🔄
+- **Google Collab**: 🤖
+- **MATLAB**: 🔢
+- **MS-Excel**: 📊
+- **PowerBI**: 🔋
+- **R Studio**: 🔬
+- **Spark MLlib**: 🎇
+- **Streamlit**: 🌊
+- **VS Code**: 💡
+- **Tableau**: 🎨
 
-Equipped with a toolkit that empowers my projects:
-- Anaconda
-- Git Version Control
-- Google Collab
-- MATLAB
-- MS-Excel
-- PowerBI
-- R Studio
-- Spark MLlib
-- Streamlit
-- VS Code
-- Tableau
+### ☁️ Cloud
 
-### Cloud
+Soaring through digital skies:
+- **Microsoft Azure**: AML Python SDK, Databricks 🚀
+- **Amazon Web Services**: 🌩️
 
-Navigating the clouds is second nature to me:
-- Microsoft Azure (AML Python SDK, Databricks)
-- Amazon Web Services
+### 🌟 Soft Skills
 
-### Soft Skills
+Balancing tech expertise with essential human touches:
+- **Story-Telling**: 📖
+- **Public Speaking**: 🎙️
+- **Teamwork**: 👫
+- **Critical Thinking**: 💭
+- **Intellectual Curiosity**: 🔍
 
-My tech prowess is complemented by essential soft skills:
-- Story-Telling
-- Public Speaking
-- Teamwork
-- Critical Thinking
-- Intellectual Curiosity
+## 🌱 Interests
 
-## Interests
+Fueled by diverse flames, I embrace every new horizon:
 
-I'm fueled by diverse passions and am always up for new adventures:
+- 💡 Embracing Technology & Championing Innovation
+- 🔓 Harnessing the Power of Open-source Programming
+- 🌐 Crafting Seamless Web Experiences
+- 📊 Delving into Data Science & Analytics
+- 🤖 Plunging into the World of AI & Machine Learning
+- 🚀 Fanning the Flames of Entrepreneurial Dreams & Startup Ventures
+- 🏸 Finding Peace on the Badminton Court
+- 🏏 Relishing the Highs & Lows of Cricket
+- 🌍 Venturing to Mystical Travel Destinations
 
-- Embracing Technology and Fostering Innovation
-- Unleashing the Potential of Open-source Programming
-- Crafting Seamless Web Experiences
-- Delving into Data Science and Analytics
-- Exploring the Depths of Artificial Intelligence and Machine Learning
-- Nurturing Entrepreneurial Dreams and Startup Ventures
-- Finding my Zen on the Badminton Court
-- Savoring the Thrills of Cricket
-- Journeying to Uncharted Travel Destinations
-
-Thank you for stopping by and getting to know me a little better. Feel free to reach out, collaborate, or share your own amazing stories!
+🙏 Thank you for alighting on my page. Feel free to connect, collaborate, or share your own mesmerizing tales with me!

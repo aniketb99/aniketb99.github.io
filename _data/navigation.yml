@@ -1,6 +1,7 @@
 # main links
 main:
   - { title: "About",  url: "/about" ,}
+  - { title: "Education", url: "/education"}
   - { title: "Experience", url: "/experience"}
   - { title: "Projects", url: "/projects"}
   - { title: "Certifications", url: "/certifications"}

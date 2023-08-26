@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: single
+author_profile: true
+toc: true
+classes:
+  - dark-theme
 title: Experience
 ---
-
-## Experience
 
 ### Tata Consultancy Services Pvt Ltd
 **Systems Engineer: Developer**  
