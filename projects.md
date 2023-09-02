@@ -7,24 +7,29 @@ classes:
 title: 🚀 My Projects
 ---
 
-## Student Mental Health :mortar_board:
 
-- 📄 [Report PDF](/assets/docs/Student_Mental_Health.pdf)
-- 📄 [Appendix PDF](/assets/docs/SMH_Appendix.pdf)
-- 📊 [R Pubs](https://rpubs.com/aniketb/1074482)
+## 🧠 Student Mental Health :
 
-## Tech Salary Analysis :chart_with_upwards_trend:
+An analytical exploration into the mental health of students.
 
-Check out the analysis of tech salaries in different regions.
+- 📊 [R Pubs Visualization](https://rpubs.com/aniketb/1074482)
+- 📄 [Report](/assets/docs/Student_Mental_Health.pdf)
+- 📄 [Appendix](/assets/docs/SMH_Appendix.pdf)
 
-- 📄 [Report PDF](/assets/docs/Tech_Salary_2016_report.pdf)
-- 📄 [Appendix PDF](/assets/docs/Tech_Salary_Appendix.pdf)
-- 📊 [R Pubs](https://rpubs.com/aniketb/1076756)
+## 💰 Tech Salary Analysis :
 
-## Melbourne Housing Insights :house_with_garden:
+Analysis of tech salaries across various regions, highlighting disparities and regional trends.
 
-- 📄 [Report PDF](/assets/docs/Melbourne_Housing_Data.pdf)
-- 📄 [Appendix PDF](/assets/docs/MHD_Appendix.pdf)  // Corrected typo here
-- 📊 [R Pubs](https://rpubs.com/aniketb/1076737)
+- 📊 [R Pubs Visualization](https://rpubs.com/aniketb/1076756)
+- 📄 [Report](/assets/docs/Tech_Salary_2016_report.pdf)
+- 📄 [Appendix](/assets/docs/Tech_Salary_Appendix.pdf)
 
-Feel free to explore these reports, analyses, and appendices! 📚📊
+## 🏠 Melbourne Housing Insights :
+
+A deep dive into the Melbourne housing market, uncovering price trends and market drivers.
+
+- 📊 [R Pubs Visualization](https://rpubs.com/aniketb/1076737)
+- 📄 [Report](/assets/docs/Melbourne_Housing_Data.pdf)
+- 📄 [Appendix](/assets/docs/MHD_Appendix.pdf)
+
+Explore these insightful reports, visualizations, and appendices for a comprehensive understanding. 📚📊
