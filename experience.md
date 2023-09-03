@@ -4,10 +4,10 @@ author_profile: true
 toc: true
 classes:
   - dark-theme
-title: Professional Experience
+title: Experience
 ---
 
-![Tata Consultancy Services Logo](/assets/logos/tcs_logo.png) 
+![Tata Consultancy Services Logo](/assets/logos/companies/Tata_Consultancy_Services_Logo.svg.png) 
 ### Tata Consultancy Services Pvt Ltd
 **Systems Engineer: Developer**  
 Mumbai, India  
@@ -27,7 +27,7 @@ Feb 2021 – Present
 
 ---
 
-![VIT Logo](/assets/logos/vit_logo.png)
+![VIT Logo](/assets/logos/companies/vit.png)
 ### Vellore Institute of Technology
 **Research Assistant, Smart Grid Lab**  
 Chennai, India  
@@ -38,7 +38,7 @@ July 2019 – August 2021
 
 ---
 
-![GetBoarded Technologies Logo](/assets/logos/getboarded_logo.png)
+![GetBoarded Technologies Logo](/assets/logos/companies/getbaorded_logo.png)
 ### GetBoarded Technologies, Portugal
 **Data Analyst Intern**  
 Remote  
