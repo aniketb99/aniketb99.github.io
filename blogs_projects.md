@@ -32,4 +32,12 @@
       <p>In this post, I share tips and strategies for building a strong personal brand online, including creating compelling content and engaging with your audience.</p>
     </td>
   </tr>
+    <tr>
+        <td>
+            <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81f02471-74fd-4e61-9222-7e00f19debd2_1059x486.jpeg" alt="Introducing My New App: Real-Time Data Streaming with Kafka and Spark" width="100%">
+            <h3><a href="https://datawithab.substack.com/p/introducing-my-new-app-real-time?r=5axwpp&utm_campaign=post&utm_medium=web&triedRedirect=true">Introducing My New App: Real-Time Data Streaming with Kafka and Spark</a></h3>
+            <p>This post introduces a new application for real-time data streaming, leveraging Kafka and Spark. It showcases technical skills in building scalable data pipelines and demonstrates the ability to process and analyze data in real-time. </p>
+        </td>
+        <td></td>
+    </tr>
 </table>
